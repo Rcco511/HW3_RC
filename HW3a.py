@@ -1,6 +1,8 @@
-# HW3a
 # Ross Compston
-# Created using the assistance of ChatGPT
+# Homework Week 3
+# Made with the assistance of chatgpt
+
+
 
 # region imports
 import DoolittleMethod as dm

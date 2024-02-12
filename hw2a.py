@@ -1,3 +1,9 @@
+# Ross Compston
+# Homework Week 3
+# Made with the assistance of chatgpt
+
+
+
 # region imports
 from math import sqrt , exp , pi
 # endregion
@@ -123,3 +129,4 @@ def main():
 if __name__ == "__main__":
     main()
 # endregion
+
