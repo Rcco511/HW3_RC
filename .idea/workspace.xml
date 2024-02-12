@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="58ae58a1-29df-4260-9fa2-8556f0408871" name="Changes" comment="Initial Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3a.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.DoolittleMethod.executor": "Run",
-    "Python.HW3a.executor": "Debug",
+    "Python.HW3a.executor": "Run",
     "Python.main.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -125,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707705270667</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1707706956744</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707706956744</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
